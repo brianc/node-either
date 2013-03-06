@@ -1,7 +1,6 @@
 # node-either
 
-![[Build Status](https://secure.travis-ci.org/brianc/node-either.png)](http://travis-ci.org/brianc/node-either)
-
+[![Build Status](https://secure.travis-ci.org/brianc/node-either.png)](http://travis-ci.org/brianc/node-either)
 
 Handle either one event or another one exactly once.
 
